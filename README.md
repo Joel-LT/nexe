@@ -232,5 +232,3 @@ Testing
 ```
 $ npm test
 ```
-
-<!-- Sample Check -->
